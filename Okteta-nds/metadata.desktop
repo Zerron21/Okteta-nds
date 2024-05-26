@@ -1,0 +1,14 @@
+[Desktop Entry]
+Icon=application-x-gameboy-rom
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=NDS Header
+Comment=Structure of the .nds file format header, based on gbateks
+
+X-KDE-PluginInfo-Author=Zerron21
+X-KDE-PluginInfo-Email=geomertyaxe21@gmail.com
+X-KDE-PluginInfo-Name=NDS-header
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=GPLv3
